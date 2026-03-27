@@ -1,0 +1,162 @@
+SupportAI Product Knowledge Base
+==================================
+
+SECTION 1: ACCOUNT MANAGEMENT
+-------------------------------
+
+How do I reset my password?
+To reset your password:
+1. Go to the login page and click "Forgot Password".
+2. Enter the email address associated with your account.
+3. Check your inbox for a password reset link (valid for 30 minutes).
+4. Click the link, enter your new password, and confirm it.
+5. Log in with your new credentials.
+
+If you don't receive the email within 5 minutes, check your spam folder or contact support@example.com.
+
+How do I update my account email address?
+1. Log into your account and navigate to Settings > Profile.
+2. Click "Edit" next to your current email address.
+3. Enter your new email and confirm your password.
+4. A verification link will be sent to the new email address.
+5. Click the link to confirm the change.
+
+Note: You cannot reuse an email that is already associated with another account.
+
+How do I delete my account?
+Account deletion is permanent and cannot be undone. To delete your account:
+1. Go to Settings > Account > Delete Account.
+2. Enter your password to confirm.
+3. Click "Delete My Account."
+
+All your data will be removed within 30 days in accordance with our privacy policy.
+
+
+SECTION 2: BILLING & SUBSCRIPTIONS
+-------------------------------------
+
+What payment methods are accepted?
+We accept the following payment methods:
+- Visa, Mastercard, American Express, Discover
+- PayPal
+- Apple Pay and Google Pay
+- Bank transfers (Enterprise plans only)
+
+We do not accept prepaid cards, gift cards, or cryptocurrency.
+
+How do I upgrade or downgrade my subscription?
+1. Go to Settings > Billing > Change Plan.
+2. Select the new plan you want.
+3. Confirm the change.
+
+Upgrades take effect immediately. Downgrades take effect at the start of your next billing cycle. You will receive a prorated credit for unused time on your current plan when upgrading.
+
+What is your refund policy?
+We offer a 14-day money-back guarantee for all new subscriptions. To request a refund:
+- Email billing@example.com within 14 days of your purchase.
+- Include your account email and order ID.
+
+Refunds are processed within 5–7 business days and returned to the original payment method. Refunds are not available after 14 days or for renewals.
+
+How do I cancel my subscription?
+1. Go to Settings > Billing > Cancel Subscription.
+2. Select a cancellation reason (optional).
+3. Click "Confirm Cancellation."
+
+Your subscription will remain active until the end of the current billing period. You will not be charged again after cancellation.
+
+
+SECTION 3: TECHNICAL SUPPORT
+-------------------------------
+
+The app isn't loading. What should I do?
+Try the following steps in order:
+1. Refresh the page (Ctrl+R / Cmd+R).
+2. Clear your browser cache and cookies.
+3. Try a different browser (Chrome, Firefox, or Safari are recommended).
+4. Disable browser extensions or try incognito/private mode.
+5. Check our status page at status.example.com for any ongoing incidents.
+6. If none of the above work, contact support with your browser version and OS.
+
+How do I export my data?
+You can export all your data at any time:
+1. Go to Settings > Privacy > Export Data.
+2. Choose a format: CSV, JSON, or PDF.
+3. Click "Request Export."
+4. You will receive a download link by email within 1 hour.
+
+Exports are available for 7 days before the link expires.
+
+Is the platform available on mobile?
+Yes. We offer native mobile apps for:
+- iOS (iPhone and iPad) — requires iOS 15 or later
+- Android — requires Android 10 or later
+
+You can download both apps from the App Store and Google Play Store respectively. The mobile apps support all core features except bulk data exports.
+
+What browsers are supported?
+We officially support:
+- Google Chrome (latest 2 versions)
+- Mozilla Firefox (latest 2 versions)
+- Apple Safari (latest 2 versions)
+- Microsoft Edge (latest 2 versions)
+
+Internet Explorer is not supported.
+
+
+SECTION 4: PRIVACY & SECURITY
+--------------------------------
+
+How is my data stored and protected?
+All data is encrypted at rest using AES-256 and in transit using TLS 1.3. We are SOC 2 Type II certified and GDPR compliant. Data is stored in ISO 27001-certified data centers in the United States and European Union.
+
+We do not sell your data to third parties. See our full privacy policy at example.com/privacy.
+
+Does the platform support two-factor authentication (2FA)?
+Yes. We support the following 2FA methods:
+- Authenticator apps (Google Authenticator, Authy, 1Password)
+- SMS one-time codes
+- Hardware security keys (FIDO2/WebAuthn)
+
+To enable 2FA, go to Settings > Security > Two-Factor Authentication and follow the setup guide.
+
+How do I report a security vulnerability?
+Please disclose security vulnerabilities responsibly by emailing security@example.com. Do not post vulnerability details publicly. We follow a 90-day responsible disclosure policy and will acknowledge your report within 48 hours.
+
+
+SECTION 5: PLANS & FEATURES
+------------------------------
+
+What are the available plans?
+We offer three plans:
+
+Starter (Free):
+- Up to 3 projects
+- 1 GB storage
+- Community support
+- Basic analytics
+
+Pro ($19/month):
+- Unlimited projects
+- 50 GB storage
+- Priority email support
+- Advanced analytics and exports
+- API access (1,000 requests/day)
+
+Enterprise (Custom pricing):
+- Unlimited everything
+- Dedicated infrastructure
+- 24/7 phone and dedicated Slack support
+- SSO / SAML integration
+- SLA guarantees
+- Custom data residency
+
+Do you offer a free trial?
+Yes. The Pro plan comes with a 14-day free trial — no credit card required. At the end of the trial, you will be asked to enter payment details to continue. If you do not upgrade, your account automatically reverts to the Starter (Free) plan.
+
+Is there a discount for nonprofits or educational institutions?
+Yes. We offer a 50% discount on the Pro plan for:
+- Registered 501(c)(3) nonprofit organizations
+- Accredited educational institutions (K-12 and higher education)
+
+To apply, email billing@example.com with proof of eligibility (e.g., 501(c)(3) determination letter or .edu email address).

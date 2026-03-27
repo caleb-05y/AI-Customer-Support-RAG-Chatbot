@@ -1,0 +1,28 @@
+Business Analytics Knowledge Base
+
+What is customer churn?
+Customer churn refers to the percentage of customers who stop using a product or service over a given time period.
+
+How do you reduce churn?
+You can reduce churn by improving customer experience, offering incentives, and identifying at-risk customers using predictive analytics.
+
+What is customer lifetime value (CLV)?
+CLV is the total revenue a business can expect from a single customer over the duration of their relationship.
+
+What is a KPI?
+A KPI (Key Performance Indicator) is a measurable value used to evaluate business success.
+
+What is conversion rate?
+Conversion rate is the percentage of users who take a desired action, such as making a purchase.
+
+What is A/B testing?
+A/B testing compares two versions of a product or feature to determine which performs better.
+
+What is data-driven decision making?
+It involves using data analysis and metrics to guide business decisions instead of intuition.
+
+What is a dashboard?
+A dashboard is a visual display of key metrics and data points used for monitoring performance.
+
+What tools are used in business intelligence?
+Common tools include SQL, Tableau, Power BI, and Excel.

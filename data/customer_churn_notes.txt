@@ -1,0 +1,13 @@
+Customer Churn Analysis Notes
+
+Churn prediction models commonly use logistic regression, random forests, or gradient boosting.
+
+Important features for churn prediction include:
+- Customer tenure
+- Usage frequency
+- Payment history
+- Customer support interactions
+
+Reducing churn can increase profitability significantly, as retaining customers is cheaper than acquiring new ones.
+
+Businesses often segment customers into high-risk and low-risk groups based on churn probability.

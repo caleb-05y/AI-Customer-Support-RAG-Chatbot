@@ -1,0 +1,23 @@
+# Environment
+.env
+*.env
+
+# Vector store (regenerate with ingest.py)
+vectorstore/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
