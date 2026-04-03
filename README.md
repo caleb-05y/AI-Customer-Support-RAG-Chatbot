@@ -1,4 +1,4 @@
-# 🤖 SupportAI — RAG-Powered Customer Support Chatbot
+# 🤖 SupportAI — RAG-Powered Business Support Chatbot
 
 A production-quality **Retrieval-Augmented Generation (RAG)** chatbot that answers customer questions by retrieving relevant context from a custom knowledge base — eliminating hallucinations and keeping every answer grounded in your documentation.
 
